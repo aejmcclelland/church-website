@@ -37,15 +37,6 @@ export default buildConfig({
 		importMap: {
 			baseDir: path.resolve(dirname),
 		},
-		autoLogin:
-			process.env.NEXT_PUBLIC_ENABLE_AUTOLOGIN === 'true'
-				? {
-						email: 'aejmcclelland@gmail.com',
-						password: 'andrew123',
-						prefillOnly: false, // or false to skip login completely (not recommended)
-				  }
-				: false,
-
 		meta: {
 			// icons: [
 			// 	{
