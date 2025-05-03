@@ -1,2 +1,2 @@
-# regent-street-app
-Regent street church website
+# hope-street-app
+Hope Street church website

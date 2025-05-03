@@ -9,7 +9,7 @@ html, body {
 }
 
 @plugin "daisyui/theme" {
-  name: "regentSweets";
+  name: "hopeSweets";
   default: false;
   prefersdark: false;
   color-scheme: "light";

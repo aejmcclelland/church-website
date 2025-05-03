@@ -5,7 +5,7 @@ export default function Welcome() {
         <section className="bg-base-300 py-12 px-6 text-center">
             <div className="container mx-auto max-w-4xl">
                 <h1 className="text-4xl font-bold font-liter text-primary mb-4">
-                    Welcome to Regent Street Presbyterian Church
+                    Welcome to Hope Street Church
                 </h1>
                 <p className="text-lg text-gray-700 leading-relaxed">
                     Whether you’re a new visitor or a long-time member, we invite you to join us in worship and fellowship.

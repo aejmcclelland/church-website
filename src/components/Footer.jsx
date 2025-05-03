@@ -10,9 +10,9 @@ export default function Footer() {
 
                 {/* Church Info */}
                 <div className="flex flex-col items-center text-center lg:items-start lg:text-left w-full">
-                    <h6 className="footer-title text-primary">Regent Street Presbyterian</h6>
+                    <h6 className="footer-title text-primary">Hope Street</h6>
                     <p className="text-sm text-gray-400">
-                        &copy; {currentYear} Regent Street Presbyterian Church. All rights reserved.
+                        &copy; {currentYear} Hope Street Church. All rights reserved.
                     </p>
                 </div>
 
@@ -26,9 +26,9 @@ export default function Footer() {
                 {/* Contact Info */}
                 <div className="flex flex-col items-center text-center lg:items-start lg:text-left w-full">
                     <h6 className="footer-title text-primary">Contact Us</h6>
-                    <p className="text-sm text-gray-400">48a Regent Street, Newtownards, BT23 4LP</p>
+                    <p className="text-sm text-gray-400">36 Hope Street, Newtown, BT01 4AB</p>
                     <a href="mailto:regent.st@btconnect.com" className="text-primary hover:underline text-sm">
-                        regent.st@btconnect.com
+                        hope.st@btconnect.com
                     </a>
                     <p className="text-sm text-primary">Phone: 028 9182 2416</p>
                 </div>
@@ -40,7 +40,7 @@ export default function Footer() {
                         Registered with the Charity Commission for Northern Ireland NIC105068.
                     </p>
                     <p className="text-sm text-gray-400 mt-2">
-                        Regent Street Presbyterian Church is not responsible for the content of external websites nor does it necessarily endorse their sponsoring organizations.
+                        Hope Street Church is not responsible for the content of external websites nor does it necessarily endorse their sponsoring organizations.
                     </p>
                     <a
                         href="https://www.presbyterianireland.org/getmedia/5ca4e3fe-f368-4d15-b8a7-779e2f3c843a/PCI_Internet_Guidelines.pdf.aspx"

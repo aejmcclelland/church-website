@@ -13,7 +13,7 @@ export default function Sundays() {
 
                 {/* Welcome Message */}
                 <p className="text-lg font-poppins text-primary-content leading-relaxed mb-8">
-                    Whether you're new to Regent Street or just curious about our worship, we invite you to join us for our Sunday services.
+                    Whether you're new to Hope Street or just curious about our worship, we invite you to join us for our Sunday services.
                     Experience uplifting worship, biblical teaching, and a welcoming community. If you can't attend in person, watch live or catch up anytime on our YouTube channel.
                 </p>
 

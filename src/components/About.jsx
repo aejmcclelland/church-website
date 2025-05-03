@@ -6,7 +6,7 @@ export default function About() {
             <div className="container mx-auto max-w-3xl text-center">
                 <h2 className="text-3xl font-semibold text-primary mb-4">About Our Church</h2>
                 <p className="text-lg text-gray-700 leading-relaxed">
-                    Regent Street Presbyterian Church is a community of faith committed to worship, service, and fellowship.
+                    Hope Street Church is a community of faith committed to worship, service, and fellowship.
                     We are deeply connected to the local community and part of the wider Presbyterian Church in Ireland.
                 </p>
                 <p className="text-lg text-gray-700 leading-relaxed mt-4">

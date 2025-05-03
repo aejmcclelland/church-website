@@ -10,7 +10,7 @@ export default function Home() {
 		{
 			src: "https://res.cloudinary.com/dqeszgo28/image/upload/t_sundays/v1742659729/regentStreetChurch/church_service_dlllqn.jpg",
 			alt: "Hero Image 1",
-			caption: "Welcome to Regent Street Presbyterian Church",
+			caption: "Welcome to Hope Street Church",
 		},
 		{
 			src: "https://res.cloudinary.com/dqeszgo28/image/upload/t_sundays/v1738409534/regentStreetChurch/praise02_sample.jpg",

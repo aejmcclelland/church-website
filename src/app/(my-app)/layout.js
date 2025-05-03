@@ -14,7 +14,7 @@ const poppins = Poppins({
 
 export default function RootLayout({ children }) {
 	return (
-		<html lang='en' data-theme='regentSweets' className={`${poppins.variable}`}>
+		<html lang='en' data-theme='hopeSweets' className={`${poppins.variable}`}>
 			<head>
 				<title>{metadata.title}</title>
 				<meta name='description' content={metadata.description} />

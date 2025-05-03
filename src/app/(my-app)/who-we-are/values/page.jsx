@@ -20,7 +20,7 @@ export default async function Values() {
                     </h2>
 
                     <p className="text-lg text-gray-700 leading-relaxed">
-                        Family, friendship, fellowship, and fun are at the heart of Regent Street.
+                        Family, friendship, fellowship, and fun are at the heart of Hope Street.
                         We believe in creating a welcoming and caring community where everyone can grow in faith and friendship.
                     </p>
 

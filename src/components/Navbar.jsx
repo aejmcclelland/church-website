@@ -46,7 +46,7 @@ export default function Navbar() {
 
     const socialLinks = [
         {
-            href: "https://www.facebook.com/regentstreetpresbyteriannewtownards/?locale=en_GB",
+            href: "https://www.facebook.com/?locale=en_GB",
             icon: <FaFacebookF className="w-5 h-5" />,
             ariaLabel: "Facebook Page"
         },
@@ -66,8 +66,8 @@ export default function Navbar() {
                             {/* Left Side: Title and Logo */}
                             <div className="flex items-center space-x-2">
                                 <Image
-                                    src="/images/rs-logo.png"
-                                    alt="Regent Street Presbyterian Logo"
+                                    src="/images/hs-logo.png"
+                                    alt="Hope Street Presbyterian Logo"
                                     width={32}
                                     height={32}
                                     className="h-8 w-8"
@@ -76,7 +76,7 @@ export default function Navbar() {
                                     href="/"
                                     className="text-xl font-bold text-base-content hover:text-primary-focus"
                                 >
-                                    Regent Street Presbyterian
+                                    Hope Street Church
                                 </Link>
                             </div>
 
