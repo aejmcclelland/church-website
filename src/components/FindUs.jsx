@@ -24,7 +24,7 @@ export default function FindUs() {
                             style={{ border: 0 }}
                             allowFullScreen
                             referrerPolicy="no-referrer-when-downgrade"
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39162.452677640096!2d-1.645711954https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d8984.516680300221!2d-5.726001724446862!3d54.57987356276026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTTCsDM0JzQ3LjYiTiA1wrA0Mic1Ni41Ilc!5e1!3m2!1sen!2suk!4v1746441057624!5m2!1sen!2suk"></iframe>
+                            src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2246.1310666835684!2d-5.717368098425293!3d54.57983915531352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTTCsDM0JzQ3LjYiTiA1wrA0Mic1Ni41Ilc!5e1!3m2!1sen!2suk!4v1746441217434!5m2!1sen!2suk"></iframe>
                     </div>
                 </div>
             </div>
